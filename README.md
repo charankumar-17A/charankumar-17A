@@ -74,7 +74,7 @@
 |---|---|---|
 | [**Retail Profitability Analysis**](https://github.com/charankumar-17A/retail-profitability-analysis) | Python · Pandas · Matplotlib | Analyzed 9,994 line items → found **18.7% loss-making records**, traced them to 20%+ discounting, and recommended discount caps to protect margins |
 | [**Marketplace Data Quality Workflow**](https://github.com/charankumar-17A/marketplace-data-quality-workflow) | Databricks · PySpark · Spark SQL | Built a **Bronze→Silver pipeline** on Olist marketplace data → delivered **112,650 validated, reporting-ready records** |
-| [**Vision Zero Chicago**](https://github.com/charankumar-17A/vision-zero-chicago) | SQL · Python · Pandas | Automated decision-support system ranking **road-safety investments across 43 Chicago corridors** with transparent, measurable risk criteria |
+| [**Vision Zero Chicago**](https://github.com/charankumar-17A/vision-zero-chicago) | SQL · Python · Pandas · [🖥 Live Dashboard](https://vision-zero-chicago-17a.streamlit.app) | Automated decision-support system ranking **road-safety investments across 43 Chicago corridors** with transparent, measurable risk criteria |
 
 ---
 
