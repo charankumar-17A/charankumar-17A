@@ -1,17 +1,18 @@
 <!--
   ═══════════════════════════════════════════════════════════════
   BELLAM CHARAN KUMAR — GitHub Profile README
+  Positioning: Fresher · Aspiring Data Analyst (2026 graduate)
   HOW TO USE: Create a PUBLIC repo named exactly `charankumar-17A`
   (same as your username), add this file as README.md. Done.
   Full setup steps → PROFILE-SETUP-GUIDE.md
   ═══════════════════════════════════════════════════════════════
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=190&section=header&text=Bellam%20Charan%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Databricks&descSize=18&descAlignY=64" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=190&section=header&text=Bellam%20Charan%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%C2%B7%20Fresher%20%C2%B7%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Databricks&descSize=17&descAlignY=64" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=42A5F5&center=true&vCenter=true&width=680&lines=Data+Analyst+%7C+2026+B.Tech+Graduate;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Databricks+%C2%B7+Excel;Turning+raw+data+into+stakeholder-ready+insights;Open+to+entry-level+Data+Analyst+%2F+BI+roles)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=42A5F5&center=true&vCenter=true&width=680&lines=Aspiring+Data+Analyst+%7C+Fresher+(2026+Graduate);SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Databricks+%C2%B7+Excel;Learning+to+turn+raw+data+into+insights;Open+to+entry-level+Data+Analyst+%2F+BI+%2F+data+roles)](#)
 
 <img src="https://komarev.com/ghpvc/?username=charankumar-17A&color=1565c0&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -21,12 +22,13 @@
 
 ## 👨‍💻 About Me
 
+- 🚀 **Aspiring Data Analyst** — 2026 fresher with hands-on analytics experience, looking for my first data role
 - 🎓 **B.Tech — Computer Science & Engineering (Data Science)** · Geethanjali College of Engineering and Technology, Hyderabad · **Class of 2026**
 - 💼 **6-month Data Analytics Internship** at SureTrust + **Deloitte Australia (Forage)** virtual job simulation
 - 📊 Built **3 end-to-end analytics projects** across Python, SQL, Power BI and Databricks (PySpark)
-- 🔍 My happy path: **data cleaning → EDA → KPI analysis → dashboards** — turning raw datasets into reporting-ready data and insights stakeholders can act on
+- 🔍 What I love doing: **data cleaning → EDA → KPI analysis → dashboards** — turning raw datasets into reporting-ready data and insights stakeholders can act on
 - 🌱 Currently sharpening **SQL (CTEs & window functions)** and **Power BI** while building out this portfolio
-- 📍 Hyderabad, India · 🎯 Seeking **entry-level Data Analyst / BI / MIS roles**
+- 📍 Hyderabad, India · 🎯 Seeking **entry-level Data Analyst / BI / MIS / data-related roles**
 
 ---
 
@@ -55,6 +57,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🔡 **SQL deep-dive** — joins, subqueries, CTEs and window functions (structured practice bootcamp)
+- 📈 **Power BI** — data modelling, DAX basics and interactive dashboard building
+- 🛠 **New portfolio projects** — every practice dataset I explore gets published here as a repo
 
 ---
 
