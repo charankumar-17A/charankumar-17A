@@ -12,9 +12,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=42A5F5&center=true&vCenter=true&width=680&lines=Aspiring+Data+Analyst+%7C+Fresher+(2026+Graduate);SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Databricks+%C2%B7+Excel;Learning+to+turn+raw+data+into+insights;Open+to+entry-level+Data+Analyst+%2F+BI+%2F+data+roles)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=42A5F5&center=true&vCenter=true&width=680&lines=SQL+%C2%B7+Python+%C2%B7+PySpark+%C2%B7+Power+BI+%C2%B7+Excel;3+end-to-end+analytics+projects+shipped+%F0%9F%9A%80;6-month+analytics+internship+%C2%B7+2026+B.Tech+(Data+Science);Turning+raw+data+into+insights+stakeholders+can+act+on)](#)
 
 <img src="https://komarev.com/ghpvc/?username=charankumar-17A&color=1565c0&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20BI%20%7C%20MIS-2ea44f?style=for-the-badge" alt="Open to work — Data Analyst / BI / MIS roles" />
 
 </div>
 
@@ -27,8 +31,45 @@
 - 💼 **6-month Data Analytics Internship** at SureTrust + **Deloitte Australia (Forage)** virtual job simulation
 - 📊 Built **3 end-to-end analytics projects** across Python, SQL, Power BI and Databricks (PySpark)
 - 🔍 What I love doing: **data cleaning → EDA → KPI analysis → dashboards** — turning raw datasets into reporting-ready data and insights stakeholders can act on
-- 🌱 Currently sharpening **SQL (CTEs & window functions)** and **Power BI** while building out this portfolio
-- 📍 Hyderabad, India · 🎯 Seeking **entry-level Data Analyst / BI / MIS / data-related roles**
+- 📍 Hyderabad, India
+
+<div align="center">
+
+**🧹 Data Cleaning → 🔍 EDA → 📈 KPI Analysis → 📊 Dashboards → 💡 Decisions**
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- 💡 NEXT WIN: add screenshots. Put 1–2 images in each repo (e.g. docs/dashboard.png),
+     then uncomment the block below and the images will appear on your profile.
+     Image URLs: https://raw.githubusercontent.com/charankumar-17A/<repo>/main/<path> -->
+
+<!--
+<div align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/charankumar-17A/vision-zero-chicago/main/docs/dashboard.png" alt="Vision Zero Chicago — corridor risk-ranking dashboard" />
+  <img width="49%" src="https://raw.githubusercontent.com/charankumar-17A/marketplace-data-quality-workflow/main/docs/pipeline.png" alt="Olist Bronze→Silver pipeline in Databricks" />
+</div>
+-->
+
+*Click any project for the full walkthrough: problem → approach → key findings → how to run.*
+
+| 📊 Project | 🛠 Stack | 🎯 What it delivered |
+|---|---|---|
+| [**Retail Profitability Analysis**](https://github.com/charankumar-17A/retail-profitability-analysis) | Python · Pandas · Matplotlib | Analyzed 9,994 line items → found **18.7% loss-making records**, traced them to 20%+ discounting, and recommended discount caps to protect margins |
+| [**Marketplace Data Quality Workflow**](https://github.com/charankumar-17A/marketplace-data-quality-workflow) | Databricks · PySpark · Spark SQL | Built a **Bronze→Silver pipeline** on Olist marketplace data → delivered **112,650 validated, reporting-ready records** |
+| [**Vision Zero Chicago**](https://github.com/charankumar-17A/vision-zero-chicago) | SQL · Python · Pandas · [🖥 Live Dashboard](https://vision-zero-chicago-17a.streamlit.app) | Automated decision-support system ranking **road-safety investments across 43 Chicago corridors** with transparent, measurable risk criteria |
+
+---
+
+## 🏆 Certifications
+
+- 🥇 **Oracle Cloud Infrastructure 2025 Data Science Professional** — Oracle
+- 🥈 **SQL (Intermediate)** — HackerRank
+- 🥉 **Python Essentials 1** — Cisco
+- 📜 **Power BI Training** — 2024
 
 ---
 
@@ -68,25 +109,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| 📊 Project | 🛠 Stack | 🎯 What it delivered |
-|---|---|---|
-| [**Retail Profitability Analysis**](https://github.com/charankumar-17A/retail-profitability-analysis) | Python · Pandas · Matplotlib | Analyzed 9,994 line items → found **18.7% loss-making records**, traced them to 20%+ discounting, and recommended discount caps to protect margins |
-| [**Marketplace Data Quality Workflow**](https://github.com/charankumar-17A/marketplace-data-quality-workflow) | Databricks · PySpark · Spark SQL | Built a **Bronze→Silver pipeline** on Olist marketplace data → delivered **112,650 validated, reporting-ready records** |
-| [**Vision Zero Chicago**](https://github.com/charankumar-17A/vision-zero-chicago) | SQL · Python · Pandas · [🖥 Live Dashboard](https://vision-zero-chicago-17a.streamlit.app) | Automated decision-support system ranking **road-safety investments across 43 Chicago corridors** with transparent, measurable risk criteria |
-
----
-
-## 🏆 Certifications
-
-- 🥇 **Oracle Cloud Infrastructure 2025 Data Science Professional** — Oracle
-- 🥈 **SQL (Intermediate)** — HackerRank
-- 🥉 **Python Essentials 1** — Cisco
-- 📜 **Power BI Training** — 2024
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -114,4 +136,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1565c0,100:0d47a1&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1565c0,100:0d47a1&height=120&section=footer&text=Turning%20raw%20data%20into%20decisions&fontSize=22&fontColor=ffffff&animation=fadeIn" />
